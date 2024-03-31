@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mcl": "^0.0.2",
+    "mcl-wasm": "^1.4.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
